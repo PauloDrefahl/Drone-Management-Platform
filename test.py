@@ -4,7 +4,7 @@ import subprocess
 # Configuration
 REPO_PATH = "/Users/paulodrefahl/Desktop/Projects/Drone-Management-Platform"  # GitHub repository path
 COMMIT_MESSAGE = "TrafficGuard 3.7v"  # Commit message
-COMMIT_DATE = "2024-05-09T08:00:00"  # Commit date (YYYY-MM-DDTHH:MM:SS)
+COMMIT_DATE = "2024-05-01T08:00:00"  # Commit date (YYYY-MM-DDTHH:MM:SS)
 BRANCH_NAME = "main"  # Branch name
 
 def run_command(command, cwd=None):
